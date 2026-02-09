@@ -1,0 +1,4 @@
+streamlit
+# 如果你用了别的库，也要写进去，比如：
+pandas
+openai
